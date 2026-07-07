@@ -3,7 +3,7 @@ pygame.mixer.music.load('ex021.mp3')
 pygame.mixer.music.play()
 pygame.event.wait()'''
 
-import miniaudio
+import miniaudio # type: ignore
 import time
 
 stream = miniaudio.stream_file('ex021.mp3')
