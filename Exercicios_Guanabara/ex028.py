@@ -2,6 +2,7 @@
 
 import random 
 import time
+
 print('Vou pensar em um numero entre 0 e 5. Tente adivinhar ')
 numero = int(input('Digite o numero em que esta pensando? '))
 time.sleep(2)
