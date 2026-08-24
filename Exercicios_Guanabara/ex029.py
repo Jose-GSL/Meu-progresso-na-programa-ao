@@ -3,7 +3,7 @@ velocidade = float(input('Qual e a velocidade atual do carro? '))
 permitido = 80
 if velocidade > permitido:
     multa = (velocidade - permitido) * 7 
-    print(f'Multado!Você  lexeceu o limite de velocidade que de {permitido}km/h ')
+    print(f'Multado!Você excedeu o limite de velocidade que de {permitido}km/h ')
     print(f'Você levarar uma multa de R${multa:.2f}')
 print('Tenha um bom dia! Dirija com segurança!')
 
