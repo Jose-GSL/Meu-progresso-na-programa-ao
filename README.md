@@ -1,4 +1,4 @@
-# Meu progresso na programaçao
-Esse respositorio foi criando para guardar meus projetos e minha evoluvaçao em relaçao as os codigos, e os estudos em relaçao a programação.
-Repositorio criado durante uma aula ao vivo.
+# Meu progresso na programação
+Esse repositório foi criado para guardar meus projetos e a minha evolução através de exercícios, códigos e estudos relacionados à programação.
+Repositório criado durante uma aula ao vivo.
 Essa linha eu adicionei diretamente no site!
